@@ -1,10 +1,10 @@
 /*
- * Bryon Fields
- * CO217
+ * Bryon 
+ * 
  * SystemInfo class gathers system information and is
  * serializable when instantiated.
  */
-package edu.grcc.co217;
+ package model;
 import java.io.Serializable;
 import java.util.Date;
 
