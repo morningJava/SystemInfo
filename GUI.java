@@ -1,7 +1,6 @@
 /*Bryon Fields
- * CO217
- * 
- * GUI class builds the JPanels, buttons and text area
+ *
+ * Builds the JPanels, buttons and text area
  * for display. The serialize and deserialize methods are here
  * and are called in the relevant button action listener.
  */
