@@ -1,5 +1,4 @@
-/*Bryon Fields
- *
+/* @author: Bryon
  * Builds the JPanels, buttons and text area
  * for display. The serialize and deserialize methods are here
  * and are called in the relevant button action listener.
