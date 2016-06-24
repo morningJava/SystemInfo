@@ -4,7 +4,7 @@
  * and are called in the relevant button action listener.
  */
 
-package edu.grcc.co217;
+package view;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
