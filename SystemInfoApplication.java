@@ -1,11 +1,11 @@
-/*Bryon Fields
+/*Bryon 
  * 
  * 
  * class SysytemInfoApplication contains the main 
  * method and JFrame attributes; instantiates GUI.
  */
 
-package edu.grcc.co217;
+package view;
 
 
 import javax.swing.JFrame;
